@@ -1,0 +1,65 @@
+[
+  {
+    "chapter": "01",
+    "width": 1672,
+    "height": 941,
+    "file": "src\\assets\\polar-ring-hd.webp",
+    "bytes": 331248
+  },
+  {
+    "chapter": "03",
+    "width": 1672,
+    "height": 941,
+    "file": "src\\assets\\chapter-03-hd.webp",
+    "bytes": 425876
+  },
+  {
+    "chapter": "04",
+    "width": 1672,
+    "height": 941,
+    "file": "src\\assets\\chapter-04-hd.webp",
+    "bytes": 295674
+  },
+  {
+    "chapter": "05",
+    "width": 1672,
+    "height": 941,
+    "file": "src\\assets\\chapter-05-hd.webp",
+    "bytes": 238840
+  },
+  {
+    "chapter": "06",
+    "width": 1672,
+    "height": 941,
+    "file": "src\\assets\\chapter-06-hd.webp",
+    "bytes": 361846
+  },
+  {
+    "chapter": "07",
+    "width": 1672,
+    "height": 941,
+    "file": "src\\assets\\chapter-07-hd.webp",
+    "bytes": 516252
+  },
+  {
+    "chapter": "08",
+    "width": 1672,
+    "height": 941,
+    "file": "src\\assets\\chapter-08-hd.webp",
+    "bytes": 449494
+  },
+  {
+    "chapter": "09",
+    "width": 1672,
+    "height": 941,
+    "file": "src\\assets\\chapter-09-hd.webp",
+    "bytes": 338842
+  },
+  {
+    "chapter": "10",
+    "width": 1672,
+    "height": 941,
+    "file": "src\\assets\\chapter-10-hd.webp",
+    "bytes": 316196
+  }
+]

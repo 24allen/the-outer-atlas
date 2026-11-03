@@ -1,0 +1,2 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {readFile,stat} from 'node:fs/promises';
+test('all photographic chapters have independent full-frame assets',async()=>{const report=JSON.parse(await readFile('art-direction/hd-resolution-report.json','utf8'));assert.equal(report.length,9);for(const r of report){assert.ok(r.width>=1600);assert.ok(r.height>=900);assert.ok((await stat(r.file.replaceAll("\\","/"))).size>200000);}});
