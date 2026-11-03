@@ -8,9 +8,9 @@
 
 ## 在线游玩
 
-发布完成后的入口：**https://24allen.github.io/the-outer-atlas/**
+在线游玩入口：**https://24allen.github.io/the-outer-atlas/**
 
-部署成功前，这个地址只是预定地址。发布后，朋友无需登录 GitHub、安装软件或运行本地服务器，使用现代浏览器即可体验。
+网站已通过 GitHub Pages 发布。朋友无需登录 GitHub、安装软件或运行本地服务器，使用现代浏览器即可体验。
 
 ## 怎么玩
 
