@@ -54,3 +54,16 @@ npm run build
 ## 内容与组件许可
 
 场景和世界观为本项目原创生成及创作。第三方组件各自遵守原作者许可；React Bits 许可保留于 `src/components/reactbits/LICENSE.txt`，作者项目：https://github.com/DavidHDev/react-bits 。仓库公开展示不代表为全部原创内容另行授予开源许可。
+
+
+## 开放共创档案馆
+
+共创入口：https://24allen.github.io/the-outer-atlas/?community=1
+
+现有十章主线之外，任何人都可以创作地域、生物、文明、异常和独立世界观。支持分类搜索、全文阅读、作者署名、关联档案、本地草稿、预览与 Markdown 导出。
+
+阅读不需要登录。公开发表、修改与讨论使用创作者自己的 GitHub 账号，在 GitHub Issues 完成；网页草稿不是公开投稿。长篇内容可复制到 GitHub 正文栏发表。回到共创馆点击刷新即可读取新记录，无需再次部署。
+
+社区作品标为“开放设定”；管理员可标记编辑收录或隐藏不适宜内容。原有十章不会自动被投稿改写。创作与维护说明见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
+验证：共创编辑与数据解析测试、桌面/平板/手机浏览器检查、十章交互回归。未自动发布测试 Issue；社区读取与纯文本安全检查使用 API 测试数据。
